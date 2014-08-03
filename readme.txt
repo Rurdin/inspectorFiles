@@ -6,3 +6,5 @@ Descripcion:
    Se quiere crear una aplicacion de escritorio en java para explorar el
    contenido de diferentes tipos de archivos, tanto las cabeceras de los
    archivos como su contenido, con posibilidad de editar y modificarlos.
+
+Esquema de archivos:
